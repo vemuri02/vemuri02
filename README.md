@@ -16,11 +16,25 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
   - **3D Voxel Transformers** for LiDAR and point cloud understanding.
   - Custom spatial attention modules for handling sparse 3D data in perception stacks.
 
----
+## 🌐 **Sensor Fusion & 3D Perception**
+- **Multi-Modal Fusion**:
+  - Late fusion with feature concatenation from LiDAR + RGB camera modalities.
+  - DepthBoost + Uncertainty-Aware Fusion for enhancing LiDAR-sparse regions.
+- **Point Cloud Learning**:
+  - Deep learning on voxelized LiDAR using **VoxelNet**, **PointPillars**, **Point Transformer**, and my custom VoxelPothNet.
+  - Fusing multiple frames for temporal consistency in dynamic environments.
+- **Real-Time 3D Pipeline Integration**:
+  - Building full-stack pipelines in **ROS 2** and deploying with **CARLA** and **Autoware.AI** for simulation and testing.
+
 ### **Edge AI & HW/SW Co-design**
 - Focusing on optimizing AI models for edge devices like **FPGAs**, **Jetson**, and **mobile systems** to achieve **low power** and **high-efficiency** solutions for real-time processing.
 - Implementing **HW/SW co-design** principles to efficiently deploy deep learning models on edge devices, using techniques such as **quantization**, **model pruning**, and **neural architecture search** (NAS).
 - Integrating **sensor fusion** from LiDAR and camera data to improve the robustness and accuracy of AI models for autonomous systems, while ensuring these models are optimized for low-latency deployment.
+- ### 📌 Platforms I Deploy To:
+- **NVIDIA Jetson Family** (Nano, Xavier NX, AGX Orin)
+- **NVIDIA DRIVE PX2 & Pegasus**
+- **Xilinx Zynq Ultrascale+ FPGAs (ZCU102/ZCU104)**
+- **ASIC prototypes** for low-power model acceleration
 
 ### **AI Security & Audio Processing**
 - Developing cutting-edge solutions for **robust audio watermarking**, ensuring the **authenticity** and **traceability** of audio signals in dynamic environments.
