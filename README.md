@@ -6,11 +6,17 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
 
 ## 🔬 Research Interests
 
-### **Computer Vision & Deep Learning**
-- Specializing in **object detection**, **semantic segmentation**, and **instance segmentation** using state-of-the-art techniques like **YOLOv4**, **Faster R-CNN**, **Mask R-CNN**, and **EfficientNet**.
-- Exploration of **Generative Adversarial Networks (GANs)** for data augmentation, improving model generalization, and enhancing segmentation results.
-- Working on advanced models such as **transformers** for 3D point cloud data processing, especially for autonomous driving and **ADAS (Advanced Driver Assistance Systems)**.
+### 🧠 **Deep Learning & Computer Vision**
+- **Object Detection**: Implementing and customizing advanced detection pipelines using **YOLOv4/v8**, **EfficientDet**, and **Faster R-CNN**, fine-tuned for high-throughput scenarios in autonomous driving.
+- **Semantic & Instance Segmentation**: Leveraging **Mask R-CNN**, **DeepLabV3+**, and **SegFormer** with custom loss functions and domain-specific datasets (e.g., pothole detection, RSCD).
+- **Generative AI & Augmentation**:
+  - Using **GANs (CycleGAN, StyleGAN2)** for domain translation and dataset augmentation.
+  - Synthetic data generation pipelines to improve model robustness under rare edge cases.
+- **Transformer-Based Architectures**:
+  - **3D Voxel Transformers** for LiDAR and point cloud understanding.
+  - Custom spatial attention modules for handling sparse 3D data in perception stacks.
 
+---
 ### **Edge AI & HW/SW Co-design**
 - Focusing on optimizing AI models for edge devices like **FPGAs**, **Jetson**, and **mobile systems** to achieve **low power** and **high-efficiency** solutions for real-time processing.
 - Implementing **HW/SW co-design** principles to efficiently deploy deep learning models on edge devices, using techniques such as **quantization**, **model pruning**, and **neural architecture search** (NAS).
