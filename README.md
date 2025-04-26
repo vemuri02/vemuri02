@@ -52,18 +52,17 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
 - Applying **quantization**, **knowledge distillation**, and **pruning** techniques to reduce model size and improve inference speed, making models suitable for edge devices without compromising on performance.
 - Exploring novel methods for optimizing models at both the architectural and **hardware** level to improve deployment efficiency, especially on low-power devices like FPGAs and embedded systems.
 
+### 🛠️ HW-Aware Optimization
+- 🕒 **Run latency-aware NAS** to automatically find optimal model architectures for FPGA/Jetson targets.
+- 🔧 **Simulate RTL-level designs** and integrate model compute graphs with **HLS pipelines**.
+- ⚡ **Apply power-saving hardware techniques** like clock gating, operand isolation, and dynamic voltage scaling for ASIC modeling.
 
-### ✅ HW-Aware Optimization
-- **Run latency-aware NAS** to automatically find optimal model architectures for FPGA/Jetson targets.
-- **Simulate RTL-level designs** and integrate model compute graphs with **HLS pipelines**.
-- **Apply power-saving hardware techniques** like clock gating, operand isolation, and dynamic voltage scaling for ASIC modeling.
-
-### ✅ Deployment & Validation
-- Export models using **ONNX**, optimize with **TensorRT** or **Vitis AI Compiler**, and deploy them on:
-  - **Jetson** using DeepStream SDK
-  - **FPGAs** using custom AXI4 IPs and PetaLinux
-  - **ASICs** through co-simulation flows
-- Validate system-wide KPIs: FPS, latency, throughput, power, and accuracy with real-world testbeds.
+### 🚀 Deployment & Validation
+- 🛠️ **Export models using ONNX**, optimize with **TensorRT** or **Vitis AI Compiler**, and deploy them on:
+  - 🖥️ **Jetson** using DeepStream SDK
+  - 🛡️ **FPGAs** using custom AXI4 IPs and PetaLinux
+  - 🧠 **ASICs** through co-simulation flows
+- 📈 **Validate system-wide KPIs**: FPS, latency, throughput, power, and accuracy with real-world testbeds.
 
 
 Below is a high-level overview of my research workflow, spanning the full AI stack — from **model design** to **hardware deployment**:
