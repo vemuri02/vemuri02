@@ -50,4 +50,27 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
 
 ---
 
+## 💡 What I Do in the Research Lab
+
+Every day in the lab is a fusion of algorithm innovation, hardware design, and practical deployment:
+
+### ✅ Model Development
+- Write custom architectures in **PyTorch** and **TensorFlow** for object detection, segmentation, and point cloud fusion.
+- Conduct large-scale training on **multi-GPU setups** using mixed precision (AMP) and gradient checkpointing for memory efficiency.
+
+### ✅ HW-Aware Optimization
+- **Run latency-aware NAS** to automatically find optimal model architectures for FPGA/Jetson targets.
+- **Simulate RTL-level designs** and integrate model compute graphs with **HLS pipelines**.
+- **Apply power-saving hardware techniques** like clock gating, operand isolation, and dynamic voltage scaling for ASIC modeling.
+
+### ✅ Deployment & Validation
+- Export models using **ONNX**, optimize with **TensorRT** or **Vitis AI Compiler**, and deploy them on:
+  - **Jetson** using DeepStream SDK
+  - **FPGAs** using custom AXI4 IPs and PetaLinux
+  - **ASICs** through co-simulation flows
+- Validate system-wide KPIs: FPS, latency, throughput, power, and accuracy with real-world testbeds.
+
+---
+
+
 Feel free to explore my repositories and projects to see how I tackle real-world problems using these advanced techniques. I am always looking for new challenges and opportunities to collaborate on impactful AI research!
