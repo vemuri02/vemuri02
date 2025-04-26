@@ -52,16 +52,6 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
 - Applying **quantization**, **knowledge distillation**, and **pruning** techniques to reduce model size and improve inference speed, making models suitable for edge devices without compromising on performance.
 - Exploring novel methods for optimizing models at both the architectural and **hardware** level to improve deployment efficiency, especially on low-power devices like FPGAs and embedded systems.
 
----
-
-
-## 💡 What I Do in the Research Lab
-
-Every day in the lab is a fusion of algorithm innovation, hardware design, and practical deployment:
-
-### ✅ Model Development
-- Write custom architectures in **PyTorch** and **TensorFlow** for object detection, segmentation, and point cloud fusion.
-- Conduct large-scale training on **multi-GPU setups** using mixed precision (AMP) and gradient checkpointing for memory efficiency.
 
 ### ✅ HW-Aware Optimization
 - **Run latency-aware NAS** to automatically find optimal model architectures for FPGA/Jetson targets.
