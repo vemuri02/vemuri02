@@ -72,6 +72,6 @@ Every day in the lab is a fusion of algorithm innovation, hardware design, and p
 - Validate system-wide KPIs: FPS, latency, throughput, power, and accuracy with real-world testbeds.
 
 ---
-
+> *“Optimizing intelligence — from Voxel Grids to Silicon Gates.”*
 
 Feel free to explore my repositories and projects to see how I tackle real-world problems using these advanced techniques. I am always looking for new challenges and opportunities to collaborate on impactful AI research!
