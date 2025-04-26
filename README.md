@@ -50,6 +50,7 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
 
 ---
 
+
 ## 💡 What I Do in the Research Lab
 
 Every day in the lab is a fusion of algorithm innovation, hardware design, and practical deployment:
