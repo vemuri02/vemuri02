@@ -1,3 +1,4 @@
+<img src="picture.jpg" alt="Sai Manohar Vemuri" width="100%" />
 # Welcome to my GitHub profile! 👋
 
 I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong passion for cutting-edge research in deep learning, neural architecture search (NAS), and edge AI optimization. My research is deeply focused on developing advanced techniques for object detection, semantic segmentation, and sensor fusion in autonomous systems, while also emphasizing efficient deployment on a variety of hardware platforms such as **FPGAs**, **GPUs**, and **embedded devices**.
