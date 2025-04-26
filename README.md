@@ -1,4 +1,4 @@
-<img src="picture.jpg" alt="Sai Manohar Vemuri" width="100%" />
+<img src="picture.jpg" alt="Sai Manohar Vemuri" width="99%" />
 
 # Welcome to my GitHub profile! 👋
 
