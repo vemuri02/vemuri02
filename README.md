@@ -78,7 +78,7 @@ Every day in the lab is a fusion of algorithm innovation, hardware design, and p
 
 Below is a high-level overview of my research workflow, spanning the full AI stack — from **model design** to **hardware deployment**:
 
-<img src="(workflow.jpg)" alt="Sai Manohar Vemuri Research Overview" width="100%" />
+<img src="workflow.jpg" alt="Sai Manohar Vemuri Research Overview" width="100%" />
 
 
 ---
