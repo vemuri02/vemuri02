@@ -2,6 +2,8 @@
 
 # Welcome to my GitHub profile! 👋
 
+> *“Optimizing intelligence — from Voxel Grids to Silicon Gates.”*
+
 I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong passion for cutting-edge research in deep learning, neural architecture search (NAS), and edge AI optimization. My research is deeply focused on developing advanced techniques for object detection, semantic segmentation, and sensor fusion in autonomous systems, while also emphasizing efficient deployment on a variety of hardware platforms such as **FPGAs**, **GPUs**, and **embedded devices**.
 
 ## 🔬 Research Interests
@@ -72,6 +74,6 @@ Every day in the lab is a fusion of algorithm innovation, hardware design, and p
 - Validate system-wide KPIs: FPS, latency, throughput, power, and accuracy with real-world testbeds.
 
 ---
-> *“Optimizing intelligence — from Voxel Grids to Silicon Gates.”*
+
 
 Feel free to explore my repositories and projects to see how I tackle real-world problems using these advanced techniques. I am always looking for new challenges and opportunities to collaborate on impactful AI research!
