@@ -16,6 +16,7 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
   - **3D Voxel Transformers** for LiDAR and point cloud understanding.
   - Custom spatial attention modules for handling sparse 3D data in perception stacks.
 
+
 ## 🌐 **Sensor Fusion & 3D Perception**
 - **Multi-Modal Fusion**:
   - Late fusion with feature concatenation from LiDAR + RGB camera modalities.
@@ -25,6 +26,7 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
   - Fusing multiple frames for temporal consistency in dynamic environments.
 - **Real-Time 3D Pipeline Integration**:
   - Building full-stack pipelines in **ROS 2** and deploying with **CARLA** and **Autoware.AI** for simulation and testing.
+
 
 ### **Edge AI & HW/SW Co-design**
 - Focusing on optimizing AI models for edge devices like **FPGAs**, **Jetson**, and **mobile systems** to achieve **low power** and **high-efficiency** solutions for real-time processing.
