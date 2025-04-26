@@ -28,7 +28,7 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
   - Building full-stack pipelines in **ROS 2** and deploying with **CARLA** and **Autoware.AI** for simulation and testing.
 
 
-### **Edge AI & HW/SW Co-design**
+### ⚙️ **Edge AI & HW/SW Co-design**
 - Focusing on optimizing AI models for edge devices like **FPGAs**, **Jetson**, and **mobile systems** to achieve **low power** and **high-efficiency** solutions for real-time processing.
 - Implementing **HW/SW co-design** principles to efficiently deploy deep learning models on edge devices, using techniques such as **quantization**, **model pruning**, and **neural architecture search** (NAS).
 - Integrating **sensor fusion** from LiDAR and camera data to improve the robustness and accuracy of AI models for autonomous systems, while ensuring these models are optimized for low-latency deployment.
@@ -38,12 +38,12 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
   - **Xilinx Zynq Ultrascale+ FPGAs (ZCU102/ZCU104)**
   - **ASIC prototypes** for low-power model acceleration
 
-### **AI Security & Audio Processing**
+### 🔊 **AI Security & Audio Processing**
 - Developing cutting-edge solutions for **robust audio watermarking**, ensuring the **authenticity** and **traceability** of audio signals in dynamic environments.
 - Working on **real-time detection systems for AI-generated speech**, including deepfake detection and addressing the emerging challenges of **synthetic voice detection**.
 - Researching techniques for protecting **audio content** from unauthorized use, leveraging advanced signal processing and machine learning methods.
 
-### **Model Optimization**
+### 🔧 **Model Optimization**
 - Using **Neural Architecture Search (NAS)** to discover efficient model architectures tailored for specific tasks and hardware platforms.
 - Applying **quantization**, **knowledge distillation**, and **pruning** techniques to reduce model size and improve inference speed, making models suitable for edge devices without compromising on performance.
 - Exploring novel methods for optimizing models at both the architectural and **hardware** level to improve deployment efficiency, especially on low-power devices like FPGAs and embedded systems.
