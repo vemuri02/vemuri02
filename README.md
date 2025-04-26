@@ -17,7 +17,7 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
   - Custom spatial attention modules for handling sparse 3D data in perception stacks.
 
 
-## 🌐 **Sensor Fusion & 3D Perception**
+### 🌐 **Sensor Fusion & 3D Perception**
 - **Multi-Modal Fusion**:
   - Late fusion with feature concatenation from LiDAR + RGB camera modalities.
   - DepthBoost + Uncertainty-Aware Fusion for enhancing LiDAR-sparse regions.
