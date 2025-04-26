@@ -31,10 +31,10 @@ I'm **Sai Manohar Vemuri**, a Ph.D. student and AI researcher with a strong pass
 - Implementing **HW/SW co-design** principles to efficiently deploy deep learning models on edge devices, using techniques such as **quantization**, **model pruning**, and **neural architecture search** (NAS).
 - Integrating **sensor fusion** from LiDAR and camera data to improve the robustness and accuracy of AI models for autonomous systems, while ensuring these models are optimized for low-latency deployment.
 - ### 📌 Platforms I Deploy To:
-- **NVIDIA Jetson Family** (Nano, Xavier NX, AGX Orin)
-- **NVIDIA DRIVE PX2 & Pegasus**
-- **Xilinx Zynq Ultrascale+ FPGAs (ZCU102/ZCU104)**
-- **ASIC prototypes** for low-power model acceleration
+  - **NVIDIA Jetson Family** (Nano, Xavier NX, AGX Orin)
+  - **NVIDIA DRIVE PX2 & Pegasus**
+  - **Xilinx Zynq Ultrascale+ FPGAs (ZCU102/ZCU104)**
+  - **ASIC prototypes** for low-power model acceleration
 
 ### **AI Security & Audio Processing**
 - Developing cutting-edge solutions for **robust audio watermarking**, ensuring the **authenticity** and **traceability** of audio signals in dynamic environments.
